@@ -304,10 +304,18 @@ h4{
 }
 footer{
     height: 80vh;
+    color: black;
     width: 100%;
-    background-color: gray;
+    background-color: white
     margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+.footerbox{
+    height: 80vh;
+    width: 100%;
     background-image: url("footer.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1200px;
+    background-position: center;
 }
