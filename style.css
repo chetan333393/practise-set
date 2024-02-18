@@ -1,0 +1,313 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.box1{
+    height: 80vh;
+    width: 100%;
+    text-align: center;
+    justify-content: space-evenly;
+    background-image: url("img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 100;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: 200;
+}
+.maintx{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.main1{
+    height: 80vh;
+    width: 100%;
+    background-color:white;
+}
+h1{
+    color: white;
+    margin-top: 100px;
+    font-size: 100px;
+    font-weight: 1000;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h4{
+     color: white;
+    font-size: 50px;
+}
+.Search{
+    text-align: center;
+    height: 50px;
+    width: 970px;
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.section2{
+    height: 50vh;
+    width: 100%;
+    background-color: white
+}
+.cont1{
+    height: 30vh;
+    width: 600px;
+    margin-top: 30px;
+    margin-right: 12px;
+    background-color: white;
+    border-bottom-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.item{
+    height: 20vh;
+    width: 600px;
+    background-color: black;
+    background-image: url("itemimg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+ 
+}
+.cont2{
+    height: 30vh;
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 12px;
+    background-color: white;
+    border-bottom-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.item2{
+    height: 20vh;
+    width: 600px;
+    background-color: black;
+    background-image: url("immmm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.section2{
+    justify-content: center;
+    display: flex;
+    height: 50vh;
+    width: 100%;
+    background-color: white;
+    margin-top: 10px;
+}
+.allp{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.inp{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.section3{
+    height: 80vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.bigbox{
+    height: 50vh;
+    width : 168vh;
+    background-color: white;
+}
+.line1{
+    color: black;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.line2{
+    color: black;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.boxes1{
+    height: 50vh;
+    width: 168vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.model1{
+    height: 50vh;
+    width: 40vh;
+    background-color: white;
+    margin-top: 30px;
+    background-image: url("model1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    border-radius: 2%;
+}
+.tx{
+    margin-top: 44vh;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.tx2{
+    margin-left: 10px;
+   margin-bottom: 20px;
+    font-size: 20px;
+}
+.model2{
+    height: 50vh;
+    width: 40vh;
+    background-color: white;
+    margin-top: 30px;
+    background-image: url("model2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    border-radius: 2%;
+}
+.model3{
+    height: 50vh;
+    width: 40vh;
+    background-color: white;
+    margin-top: 30px;
+    background-image: url("model3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    border-radius: 2%;
+}
+.model4{
+    height: 50vh;
+    width: 40vh;
+    background-color: white;
+    margin-top: 30px;
+    background-image: url("model4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    border-radius: 2%;
+}
+.section5{
+    height: 80vh;
+    width: 100%;
+    background-color: white;
+}
+.mainset{
+    height: 55vh;
+    width: 168vh;
+    margin-left: 150px;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: white;
+    justify-content: space-around;
+}
+.set1{
+    height: 100px;
+    width: 400px;
+    background-color: white;
+    border-radius: 2%;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+.SET{
+    display:flex;
+    height: 130px;
+    width: 168vh;
+    background-color: white;;
+    justify-content: space-evenly;
+}
+.Popular{
+    margin-left: 180px;
+    font-size: 50px;
+}
+.p23{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+  margin-top: 30px;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.p24{
+    font-size: 20px;
+    margin-left: 10px;
+  }
+.p25{
+    margin-top: 35px;
+    margin-left: 120px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.hero{
+    height: 70vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;    
+}
+.hero1{
+    height: 60vh;
+    width: 500px;
+    margin-top: 80px;
+    background-color: white;
+    background-image: url("mobile.jpg");
+    background-size: 400px;
+    background-repeat: no-repeat;
+     background-position: center;
+}
+.hero2{
+    height: 70vh;
+    width: 700px;
+    background-color: white;
+    font-size: 50px;
+}
+.herop{
+    font-size: 28px;
+    margin-top: 30px;
+}
+.inbox{
+    margin-top: 20px;
+    height: 40vh;
+    width: 80vh;
+    background-color: black;
+    background-image: url("inbox3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer{
+    height: 80vh;
+    width: 100%;
+    background-color: gray;
+    margin-top: 5px;
+    background-image: url("footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
